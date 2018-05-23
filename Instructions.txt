@@ -1,0 +1,10 @@
+Full stack test
+1. Create a SQL Database and Table to hold the provided MOCK_DATA.
+2. Using C# ASP MVC 4.x (not Core), create a list page that reads from that database table and effectively displays all the MOCK_DATA.
+3. Use Entity Framework (version 4+) to read/write the database data. Avoid using stored procedures, if you can.
+4. Include Create, Edit and Delete buttons on the list page. Have each of them function without reloading the page.
+
+When submitting your code, please include a SQL Script or ".bacpac" file of your entire database schema and data.
+
+
+Please read the readme file for running the project.
